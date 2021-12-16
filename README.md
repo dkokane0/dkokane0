@@ -24,7 +24,7 @@
 
 
 ## <p> <img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/100/000000/external-career-professional-mentorship-inipagistudio-mixed-inipagistudio.png"/></p>Career Objective : 
-    To achieve and challenging and growth oriented position in well-known qualifications and experience to embark successful carrier.
+   To achieve and challenging and growth oriented position in well-known qualifications and experience to embark successful carrier.
 <br>
 
 ## 🚀 Languages and Tools:
