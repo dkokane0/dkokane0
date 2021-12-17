@@ -43,13 +43,13 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://dev.to/https://dev.to/deepakkokane0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/deepakkokane0" height="30" width="40" /></a>
+<a href="https://dev.to/deepakkokane0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/deepakkokane0" height="30" width="40" /></a>
 <a href="https://twitter.com/deepakkokane0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakkokane0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-kokane-161628190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kokane-161628190" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/deepakkokane0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deepakkokane0/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-kokane-161628190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kokane-161628190" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deepakkokane0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deepakkokane0/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpvdp76eiy1s77tn0fxk9ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpvdp76eiy1s77tn0fxk9ha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/deepakkokane300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/deepakkokane300" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://hub.docker.com/u/deepakkokane" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/docker.png" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deepakkokane300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/deepakkokane300" height="30" width="40" /></a>
+<a href="https://hub.docker.com/u/deepakkokane" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/docker.png" height="30" width="40" /></a>
 </p>
 </p>
 <br>
