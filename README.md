@@ -20,7 +20,6 @@
 
 - ⚡ Participation **Actively Contribute to Team project freestudybuddy.**
 <br>
-<br><br>
 
 
 ## <p> <img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/100/000000/external-career-professional-mentorship-inipagistudio-mixed-inipagistudio.png"/></p>Career Objective : 
@@ -53,5 +52,11 @@
 </p>
 </p>
 <br>
-
+<div>
+<p align='left'><img src="https://github-readme-stats.vercel.app/api?username=dkokane0&count_private=true&title_color=0969da&icon_color=0969da&text_color=0C2233&custom_title=Deepak+Kokane's+GitHub+Stats&show_icons=true"
+                        /><img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkokane0"
+                     /></p><p align='right'></p>
+   </div>
 ###     .........................................................................................................................
+
