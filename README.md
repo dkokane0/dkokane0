@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning in **[Department Of Computer Science Saitribai Phule Pune University](http://www.unipune.ac.in/dept/science/computer_science/default.htm)**
+- 🔭 I’m currently learning in **[Department Of Computer Science Savitribai Phule Pune University](http://www.unipune.ac.in/dept/science/computer_science/default.htm)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
